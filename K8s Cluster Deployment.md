@@ -3,6 +3,9 @@
 # Pre-Requiste #
 
 #Setup linux ubuntu OS on vagrant cloud
+>vagrant up
+
+>vagrant ssh
 
 #Created Kubertness Architecture of 2cpu shown in Vagrantfile
 
