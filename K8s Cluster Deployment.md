@@ -65,6 +65,8 @@ The Minikube IP will be find through -minikube ip  command
 
 Replace the minikube-ip and nodeport as defined in particular architecture.
 
+![Screenshot 2024-03-27 175231](https://github.com/Rajil101/Accuknox/assets/86475883/1d9bba66-0790-4ffd-98a6-8ba971915a14)
+
 
 # Git Integration #
 
