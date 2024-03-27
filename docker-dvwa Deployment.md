@@ -63,6 +63,12 @@
 
 OR define in-line in vagrant file with port forwarding.
 
+# Access the application by typing the localhost in browser
+
+![Screenshot 2024-03-27 174622](https://github.com/Rajil101/Accuknox/assets/86475883/d62b69bb-c72b-4fa2-8832-f96ea12e7856)
+
+
+
 #Stop the application server
 
 >make stop
