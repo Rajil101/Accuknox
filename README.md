@@ -1,1 +1,1 @@
-# Please find attached assignment 2 details individually respective to the task. #
+# Please find assignment 2 details with respective of task. #
